@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("Ici Guillaume");
 		
 		System.out.println("Modif par Alex.");
+		System.out.println("re");
 	}
 
 }
