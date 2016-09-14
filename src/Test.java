@@ -5,7 +5,8 @@ public class Test {
 		System.out.println("Bonjour CH4");
 		System.out.println("Ici Guillaume");
 		
-		System.out.println("Modif par Alex.");
+		System.out.println("Modif par Alex ---.");
+		
 	}
 
 }
